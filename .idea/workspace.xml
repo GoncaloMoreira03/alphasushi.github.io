@@ -4,7 +4,160 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e59662f8-4357-40c1-a5e8-e18734de6cd4" name="Changes" comment="Template Do site" />
+    <list default="true" id="e59662f8-4357-40c1-a5e8-e18734de6cd4" name="Changes" comment="Template Do site">
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/flexslider-icon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/flexslider-icon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/flexslider-icon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/about-thumb-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/about-thumb-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/about-thumb-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/about-video-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/alpha-removebg-preview (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/blablabla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/chefs-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/chefs-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/chefs-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/fundoPreto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gunkan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/klassy-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/meno1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/meno2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/meno3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/menu-item-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/menu-item-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/menu-item-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/menu-item-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/menu-item-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/menuHori.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/menuHori2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/menuSushi1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/menuSushi1800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/menuSushi2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/reservation-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/slide-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/slide-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/slide-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/superior.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/superior2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/superior3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tab-icon-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tab-icon-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tab-icon-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tab-item-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tab-item-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tab-item-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tab-item-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tab-item-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tab-item-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/top-left-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/.idea/templatemo_558_klassy_cafe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/css/flex-slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/flex-slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/css/lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/lightbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/css/owl-carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/owl-carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/css/templatemo-klassy-cafe.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/templatemo-klassy-cafe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/Flaticon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/flexslider-icon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/flexslider-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/flexslider-icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/flexslider-icon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/flexslider-icon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/slick.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/slick.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/slick.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/slick.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/fonts/slick.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/about-thumb-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/about-thumb-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/about-thumb-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/about-video-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/alpha-removebg-preview (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/alpha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/blablabla.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/chefs-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/chefs-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/chefs-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/fundoPreto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/gunkan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/klassy-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/meno1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/meno2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/meno3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/menu-item-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/menu-item-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/menu-item-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/menu-item-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/menu-item-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/menuHori.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/menuHori2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/menuSushi1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/menuSushi1800.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/menuSushi2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/reservation-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/slide-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/slide-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/slide-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/superior.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/superior2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/superior3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/tab-icon-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/tab-icon-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/tab-icon-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/tab-item-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/tab-item-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/tab-item-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/tab-item-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/tab-item-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/tab-item-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/top-left-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/images/white-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/js/accordions.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/accordions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/js/datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/datepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/js/imgfix.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/imgfix.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/js/isotope.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/isotope.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/js/jquery-2.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery-2.1.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/js/jquery.counterup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.counterup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/js/lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/js/owl-carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/owl-carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/js/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/popper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/js/scrollreveal.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/scrollreveal.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/js/slick.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/slick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/assets/js/waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/prepros-6.config" beforeDir="false" afterPath="$PROJECT_DIR$/prepros-6.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_558_klassy_cafe/prepros.config" beforeDir="false" afterPath="$PROJECT_DIR$/prepros.config" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,9 +169,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2a3PGCXQzhcNzhdO9QbNR45BKrS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,8 +179,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Boehringer Ingelheim/WebstormProjects/alphasushi.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,6 +210,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703544192041</updated>
       <workItem from="1703544193475" duration="2200000" />
+      <workItem from="1703546409306" duration="1474000" />
     </task>
     <task id="LOCAL-00001" summary="Template Do site">
       <option name="closed" value="true" />
@@ -72,7 +228,31 @@
       <option name="project" value="LOCAL" />
       <updated>1703545545528</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Template Do site">
+      <option name="closed" value="true" />
+      <created>1703546447970</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703546447970</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Template Do site">
+      <option name="closed" value="true" />
+      <created>1703546820454</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703546820454</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Template Do site">
+      <option name="closed" value="true" />
+      <created>1703547154297</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703547154297</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
